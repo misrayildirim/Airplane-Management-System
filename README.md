@@ -21,8 +21,8 @@ This project is a backend web application developed using Django REST Framework 
 - pip install -r requirements.txt
 
 ### 3-Apply Migration 
-python manage.py makemigrations
-python manage.py migrate      
+- python manage.py makemigrations
+- python manage.py migrate      
 
 ### 4-Run the Server
 python manage.py runserver    
