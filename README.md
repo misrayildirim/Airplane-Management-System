@@ -10,15 +10,15 @@ This project is a backend web application developed using Django REST Framework 
 ## Setup instructions
 ### 1-Clone the Repository
 - - git clone https://github.com/misrayildirim/Airplane-Management-System.git
---If we download the project directly to the computer
--cd C:\Users\Username\Masaüstü
--mkdir Airplane Management System  # Proje klasörünü oluştur
--cd AirlineManagementSystem 
+- If we download the project directly to the computer
+- cd C:\Users\Username\Masaüstü
+- mkdir Airplane Management System  # Proje klasörünü oluştur
+- cd AirlineManagementSystem 
 
 ### 2-Create Virtual Environment & Install Dependencies
--python -m venv venv
--source venv/Scripts/activate 
--pip install -r requirements.txt
+- python -m venv venv
+- source venv/Scripts/activate 
+- pip install -r requirements.txt
 
 ### 3-Apply Migration 
 python manage.py makemigrations
