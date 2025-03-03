@@ -72,11 +72,3 @@ python manage.py runserver
 * Ensure that the flight capacity is not exceeded when making a reservation.
 
 
-## Why Class-Based Views (CBV) over Function-Based Views (FBV)?
-
-* Code Reusability: CBVs allow the creation of reusable components, making the codebase more maintainable and reducing duplication.
-* Modularity: CBVs provide a modular approach to building views, making it easier to extend and customize views.
-* Built-in Generic Views: Django's built-in generic views handle common tasks, reducing the need for boilerplate code.
-* Separation of Concerns: CBVs organize code into methods, making the code more readable and understandable.
-* Professionalism: CBVs offer a more structured and professional approach, which is beneficial for larger projects.
-While FBVs are simpler, CBVs offer greater flexibility and scalability, making them a better fit for larger projects.* 
